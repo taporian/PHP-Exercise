@@ -1,0 +1,14 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+th,
+td {
+  padding: 10px;
+}
+.inputLine {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #000000;
+}
